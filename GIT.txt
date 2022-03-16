@@ -1,2 +1,3 @@
 welcome to local git
 sending it to remote repo
+ab isko pull ka use kar ke local me dalna hai
